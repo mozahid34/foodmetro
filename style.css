@@ -1,0 +1,84 @@
+body {
+    font-family: 'Dancing Script', cursive;
+}
+
+.flex-display {
+    display: flex;
+}
+.half{
+    width: 50%;
+    margin: 50px;
+}
+
+.clr{
+    color: orangered;
+}
+.intro{
+    font-size: 28px;
+    color: green;
+    text-align: justify;
+    
+
+}
+.btn{
+    text-decoration: none;
+    padding: 15px 35px;
+    border-radius: 70px;
+    font-weight: 800;
+    background-color: orangered;
+   
+
+}
+.sec2{
+    background-image: url(img/Frame\ 58.jpg);
+
+}
+.about{
+    text-align: center;
+    padding-left: 10%;
+}
+.box{
+    width: 25%;
+    margin: 5%;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px gray;
+    background: ghostwhite;
+}
+
+.box img{
+    width: 270px;
+}
+.recepe{
+    text-align: center;
+}
+
+.container{
+    background: ghostwhite;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin: 50px;
+
+}
+.font{
+    font-weight: 900;
+    font-size: 32px;
+}
+.follower{
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 30%;
+}
+
+footer{
+    margin-top: 25px;
+    background-image: linear-gradient(rgb(54, 50, 50),rgb(8, 0, 0));
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    color: ghostwhite;
+    
+}
+
+
